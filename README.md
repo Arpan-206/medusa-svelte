@@ -6,7 +6,7 @@
 
 ### Participants
 
-- Github:  @Arpan-206 @Shourya-maker-lab
+- Github:  [@Arpan-206](https://github.com/Arpan-206) [@Shourya-maker-lab](https://github.com/Shourya-maker-lab)
 - Twitter: [@ArpanHrbt](https://twitter.com/ArpanHrbt) [@MakerShourya](https://twitter.com/MakerShourya)
 - Discord: Arpan Pandey#2585, Shourya_maker_lab#5887
 
