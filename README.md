@@ -6,9 +6,9 @@
 
 ### Participants
 
-In this section, include the GitHub handles of everyone in your team, including yourself.
-
-Please also share their Twitter and Discord handles as it makes it easier for us to make shout-outs and contact you in case your project ends up as a winner.
+- Github:  @Arpan-206 @Shourya-maker-lab
+- Twitter: [@ArpanHrbt](https://twitter.com/ArpanHrbt) [@MakerShourya](https://twitter.com/MakerShourya)
+- Discord: Arpan Pandey#2585, Shourya_maker_lab#5887
 
 ### Description
 
