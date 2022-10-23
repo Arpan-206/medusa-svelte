@@ -35,7 +35,7 @@
 
 <Navbar border={false}>
 	<h3 slot="brand">
-		<a href="/">BookIO</a>
+		<a href="/">Medusvelte</a>
 	</h3>
 	<ul class="inline">
 		{#if user}

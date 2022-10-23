@@ -13,6 +13,7 @@
 	let cartID = null;
 	let addrModalOpen = false;
 	let paymentSession = null;
+    
 	onMount(async () => {
 		user = await medusa.auth.getSession();
 		if (user) {
@@ -22,6 +23,7 @@
 		cartID = localStorage.getItem('cartID');
 		cart = await medusa.carts.retrieve(cartID);
 		cart = cart.cart;
+        console.log(cart);
 		paymentSession = cart.payment_session;
 
 		stripe = await loadStripe(PUBLIC_STRIPE_KEY);
