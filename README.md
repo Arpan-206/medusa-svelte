@@ -12,7 +12,7 @@ Please also share their Twitter and Discord handles as it makes it easier for us
 
 ### Description
 
-It is a quickstarter for [Medusa](https://medusajs.com) with [Svelte](https://svelte.dev) as the frontend framework. It is very basic but you need to start somewhere :wink: . It is enough to get your projects started. It is also a good example of how to use Medusa with Svelte.
+It is a quickstarter for [Medusa](https://medusajs.com) with [Svelte](https://svelte.dev) as the frontend framework. It is very basic but you need to start somewhere :wink:. It is enough to get your projects started. It is also a good example of how to use Medusa with Svelte.
 
 ### Preview
 
